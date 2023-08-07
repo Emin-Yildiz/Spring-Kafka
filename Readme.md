@@ -12,6 +12,18 @@ Hataya dayanıklı, esnek bir mimariye sahiptir. Düşük gecikme neredeyse ger�
 
 Mesajlaşma sistemi, etkinlik takibi, log toplama, stream processing, big data entegrasyonu amacı ile kullanılabilir.
 
+### Avantajlar
+
+- **Dayanıklılık ve Kapsüllü Depolama:** Kafka, verileri disk üzerinde kapsüllü bir şekilde saklayarak dayanıklılık sağlar.
+- **Yüksek İşleme Kapasitesi:** Kafka, büyük miktardaki veriyi hızlı bir şekilde işleyebilme yeteneğine sahiptir.
+- **Akış İşleme:** Veri akışını işleme ve analiz etme konusunda güçlüdür.
+- **Geniş Topluluk Desteği:** Büyük bir açık kaynak topluluğu ve geniş bir ekosisteme sahiptir.
+
+### Dezavantajlar
+
+- **Kurulum ve Yapılandırma Karmaşıklığı:** Kafka'nın kurulumu ve yapılandırması diğer bazı çözümlere göre daha karmaşıktır.
+- **Yüksek Disk Kullanımı:** Verilerin diske yazılması dayanıklılığı artırırken, disk alanı gereksinimini de artırır.
+
 ## Kafka Temel Kavramları
 
 | Element             | Tanım                             |
